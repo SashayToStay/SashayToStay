@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SashayToStay
+- 👀 I’m interested in PGP
+- 🌱 I’m currently learning GIT
+- 📫 How to reach me ? That's a good question...
